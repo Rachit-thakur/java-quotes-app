@@ -1,5 +1,5 @@
 services:
-  quotes-app:
+  java-quotes-app:
     build: .
     container_name: javaquotesapp
     ports:
