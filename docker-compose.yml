@@ -1,0 +1,7 @@
+services:
+  java-quotes-app:
+    image: rachitthakur/multi-javaapp:latest
+    container_name: javaquotesapp
+    ports:
+      - "8000:8000"
+    
